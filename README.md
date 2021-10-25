@@ -1,2 +1,2 @@
 # hello-world
-The start of a new repository!
+The start of a new repositorie!
